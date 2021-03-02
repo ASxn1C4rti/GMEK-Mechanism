@@ -1,0 +1,7 @@
+$nomention
+$clear[2]
+$deletecommand
+
+**[BOT] Kim:** $username please do not send invitations from other servers.
+
+$deleteIn[5s]
