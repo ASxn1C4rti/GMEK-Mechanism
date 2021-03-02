@@ -1,20 +1,6 @@
 Commands created by Jose E. Hernandez @xASonicMenx
 
 
-Congratulations!!!🎉🎉
-
-You have been chosen as an Official Volunteer of GMEK Studios.
-
-**GMEK Studios** 
-
-> As an official volunteer you will receive the role in the discord server, you will have access with the other volunteers, many more things.
-
-> **__To be officially accepted, you must accept that you should not share private information from GMEK Studios.__**
-$onlyAdmin[**[BOT] Mechanism:** Sorry, insufficient permissions.]
-$changeUsername[[Crew]]
-$deletecommand
-**Author:** 
-$authorID
-**Day**
-$day
-$dm
+$onlyAdmin[**[BOT] Mechanism:** Only for GMEK staff]
+$kickMention[Reason: $noMentionMessage]
+$deletedcommand
