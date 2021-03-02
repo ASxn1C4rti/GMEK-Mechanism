@@ -1,0 +1,12 @@
+$nomention
+**Slack by GMEK Studios**
+
+
+> Would you like to contribute to GMEK Studios? Please go to our link to get started.
+
+**Link:** https://join.slack.com/t/gmekstudios/shared_invite/zt-mkifg19u-2loBlTcOVNBa2TlAfx~~Og
+$cooldown[10m;
+
+**[BOT] Mechanism:** please, you have to wait to use the command again.
+$deletecommand
+
